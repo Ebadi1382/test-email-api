@@ -1,0 +1,20 @@
+.box {
+    width: 300px;
+    height: 140px;
+    background-color: #550d86;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: .3rem;
+    border: 2px solid #000;
+    border-radius: 5px;
+    padding: .7rem;
+}
+.box h6 {
+    text-align: center;
+}
+.box p {
+    color: aqua;
+}
